@@ -1,0 +1,11 @@
+# 仮想環境
+kaggle-env/
+
+# データファイル
+mnist/data/
+
+# スクリプト
+mnist/scripts/
+
+# 提出用のCSVファイル
+mnist/submission.csv
